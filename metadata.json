@@ -1,0 +1,5 @@
+{
+  "name": "Ecos Nucleares: Aventura de Texto",
+  "description": "Un juego de aventura de texto al estilo Zork ambientado en un futuro post-apocalíptico. Navega por el páramo desolado, interactúa con un mundo moldeado por la guerra nuclear y descubre los secretos de la nueva Tierra, con descripciones dinámicas generadas por la API de Gemini.",
+  "requestFramePermissions": []
+}
